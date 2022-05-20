@@ -1,6 +1,6 @@
-# PlatoAristotleCorpusSearch
+# Plato/Aristotle Reference Lookup
 
-This is a Python tool run on the command line that allows you to lookup specific pages or lines from the Aristotle or Plato TLG corpus, using Bekker or Stephanus numbers. To run:
+This is a Python tool run on the command line that allows you to look up specific pages or lines from the Aristotle or Plato TLG corpus, using Bekker or Stephanus numbers. To run:
 
 ``` 
 py corpus_search.py
