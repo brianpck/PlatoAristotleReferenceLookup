@@ -21,3 +21,5 @@ The following **Stephanus** formats for Plato are supported:
 - 436e1-5 (multiple lines)
 - 437b-d (multiple sections)
 - 899d5-900a2 (exact span)
+
+Note: For Plato citations, the same page often can refer to different works on different volumes. In this case, you will be prompted to enter the work that you are looking up from a list of possible locations; the tool will then automatically select this work until you enter a Stephanus number that is not contained in the selected work.
